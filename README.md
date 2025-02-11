@@ -6,15 +6,16 @@
  It combines **Context-Free Grammar (CFG)** and **Markov Chains** to generate narratives. 
 
 # The system produces a **fully formatted story** with **three main acts**:
-  1. **Act 1:** The protagonist returns from exile.
-  2. **Act 2:** The protagonist faces opposition and begins their revenge.
-  3. **Act 3:** The protagonist achieves victory and shocks the world.
+  **Act 1:** The protagonist returns from exile.
+  **Act 2:** The protagonist faces opposition and begins their revenge.
+  **Act 3:** The protagonist achieves victory and shocks the world.
 
 # Run the Project
     This project requires **Python 3** and the following dependencies:
     pip install tracery numpy
 # Python script:
-    python story_generator.py
+    python——460_A2.ipynb
+    Create by colab
 
 # Sample Output:
     Wilson, the Shadow Emperor of Canada has been in hiding for years, but today, he finally returns to Vancouver. 
